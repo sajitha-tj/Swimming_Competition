@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="101c3bb2-d8e9-4f9f-8d70-958df926e322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Judge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spectator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SupportingStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Swimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwimmingCompetition.java" afterDir="false" />
+    <list default="true" id="101c3bb2-d8e9-4f9f-8d70-958df926e322" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Judge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spectator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spectator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SupportingStaff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SupportingStaff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Swimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swimmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwimmingCompetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwimmingCompetition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +35,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hotel Resrvation System" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -51,15 +52,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,8 +78,17 @@
       <option name="presentableId" value="Default" />
       <updated>1679929736756</updated>
       <workItem from="1679929740791" duration="258000" />
-      <workItem from="1679936437175" duration="3201000" />
+      <workItem from="1679936437175" duration="4696000" />
+      <workItem from="1679974395768" duration="4435000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1679939890293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679939890293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +104,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

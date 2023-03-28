@@ -18,22 +18,22 @@ public class SwimmingCompetition {
 
         ArrayList<Swimmer> swimmers = new ArrayList<>();
         for (int i = 0; i < no_of_swimmers; i++){
-            swimmers.add(new Swimmer("swimmer"+i, i));
+            swimmers.add(new Swimmer("swimmer"+i, "swm"+i));
         }
 
         ArrayList<Judge> judges = new ArrayList<>();
         for (int i = 0; i < no_of_judges; i++){
-            judges.add(new Judge("judge"+i, i));
+            judges.add(new Judge("judge"+i, "jdg"+i));
         }
 
         ArrayList<Spectator> spectators = new ArrayList<>();
         for (int i = 0; i < no_of_spectators; i++){
-            spectators.add(new Spectator("spectator"+i, i));
+            spectators.add(new Spectator("spectator"+i, "spc"+i));
         }
 
         ArrayList<SupportingStaff> staffs = new ArrayList<>();
         for (int i = 0; i < no_of_staff; i++){
-            staffs.add(new SupportingStaff("staff"+i, i));
+            staffs.add(new SupportingStaff("staff"+i, "stf"+i));
         }
 
         for (Swimmer swimmer:swimmers) {
